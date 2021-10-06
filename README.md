@@ -106,4 +106,4 @@ Results:
 
 acc: 0.68
 ```
-![Accuracy/Loss Plot](https://github.com/walaeddine/emotion-recognition/blob/main/output/vggnet_emotion.png?raw=true)
+![Accuracy/Loss Plot](https://github.com/walaeddine/facial-expression-recognition/blob/main/output/vggnet_emotion.png?raw=true)
